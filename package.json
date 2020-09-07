@@ -8,8 +8,9 @@
   "license": "MIT",
   "main": "PTHospitalList.js",
   "scripts": {
-    "test": "node PTHospitalList.js"
+    "test": "sh test.sh"
   },
   "dependencies": {
+    "jshint": "*"
   }
 }
